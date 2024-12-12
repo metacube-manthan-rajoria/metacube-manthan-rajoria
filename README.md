@@ -5,4 +5,6 @@
 - 📫 How to reach me... (You cant)
 
 # Repositories
-[Assignments](https://github.com/metacube-manthan-rajoria/Assignments)
+- [Assignments](https://github.com/metacube-manthan-rajoria/Assignments)
+- [Slides](https://github.com/metacube-manthan-rajoria/Slides)
+- [Libraries](https://github.com/metacube-manthan-rajoria/Libraries)
